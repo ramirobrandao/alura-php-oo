@@ -5,4 +5,4 @@ Curso Alura - Curso PHP I: Orientação a objetos com sua linguagem preferida
 Curso Alura - Curso PHP II: Avançando com Orientação a objetos
 </br>https://cursos.alura.com.br/course/php-oo-2
 
-Link: http://www.lojaalura.pe.hu
+Link: https://lojaalurabr.000webhostapp.com/
